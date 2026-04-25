@@ -4,8 +4,8 @@
 
 This project demonstrates a **fully automated motor control system** using:
 
-* **Siemens PLC **
-* **Delta Variable Frequency Drive (VFD)**
+* Siemens PLC 
+* Delta Variable Frequency Drive (VFD)
 * Real industrial wiring setup
 
 The system automatically controls **motor speed and direction** in a cyclic sequence based on time.
